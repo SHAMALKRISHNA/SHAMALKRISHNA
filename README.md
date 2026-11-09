@@ -8,7 +8,7 @@
   <a href="https://mykoala.com.au"><img src="https://img.shields.io/badge/mykoala.com.au-0f6b5c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mykoala.com.au"/></a>
   <a href="https://www.linkedin.com/in/shamal-krishna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com/@gptaltman"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://x.com/mykoalaai"><img src="https://img.shields.io/badge/@mykoalaai-101416?style=for-the-badge&logo=x&logoColor=white" alt="X @mykoalaai"/></a>
+  <a href="https://x.com/SHAMALKRISHNA"><img src="https://img.shields.io/badge/@SHAMALKRISHNA-101416?style=for-the-badge&logo=x&logoColor=white" alt="X @SHAMALKRISHNA"/></a>
   <a href="mailto:sam@mykoala.com.au"><img src="https://img.shields.io/badge/sam@mykoala.com.au-18201e?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email sam@mykoala.com.au"/></a>
 </p>
 
@@ -59,6 +59,7 @@ A little more intention around screen time. Native Swift, built on Apple's Scree
 | | Project | What it is |
 |---|---|---|
 | 🧽 | **CleanOS** | The operating system for cleaning businesses: enquiry, quote, booking, job proof and invoice in one record. Phase one in development, shaped by running [Clean Up Bros](https://www.cleanupbros.com.au/). [Early access ↗](https://mykoala.com.au/#waitlist) |
+| 📊 | **AI Price Watch** | Live tracker of AI model prices and routing changes. [pricewatch.mykoala.com.au ↗](https://pricewatch.mykoala.com.au) |
 | 🚕 | **BulaRides** | Ride-hailing for Fiji, where I'm from. React Native and Supabase. In development. |
 | 🎓 | **UniMate** | University and visa pathway guidance for international students. In development. |
 | 🎙️ | **Utter** | Native Mac dictation. In development. |
@@ -103,6 +104,14 @@ and an NDIS provider's admin portal. See the [selected work](https://mykoala.com
   <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale"/>
   <img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite FTS5"/>
 </p>
+
+## Background & education
+
+- **Certificate in Computing**, NZPTC Lautoka, Fiji (2010)
+- **Natabua High School**, Lautoka — Year 13 (2014)
+- Customs / logistics at Basic Industries, Fiji (2018–2023); some diploma units in customs (not completed)
+- Current: CPR (HLTAID009) and First Aid certificates
+- Self-taught in AI and software since ~2026, learning by shipping: two App Store apps (Falah, Take a Break), CleanOS, and [AI Price Watch](https://pricewatch.mykoala.com.au)
 
 ## Let's build something
 
