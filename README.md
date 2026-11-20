@@ -22,9 +22,11 @@ I'm Sam, a self-taught developer in Sydney. I came to software from customs, log
 business, so I build for the work people actually have to get done: the booking, the quote, the invoice, the
 reminder at prayer time, the phone you meant to put down.
 
-With my partner Hafsah I run **[MyKoala](https://mykoala.com.au)**, a family-led Australian product studio. We
-ship our own products, build websites and workflows for small businesses, and run a real cleaning business that
-teaches us what to build next.
+Hafsah and I run **[MyKoala](https://mykoala.com.au)**, our AI consulting agency in Sydney. We find where work
+gets stuck, then build the automation, website or software that fixes it.
+
+We also run **[Clean Up Bros](https://www.cleanupbros.com.au/)**, our commercial cleaning business. The work
+of quoting, scheduling and proving jobs there shaped CleanOS.
 
 💼 **Open to** software engineering, AI/ML and full-stack roles. If your team ships real products with AI in the
 loop, let's talk.
@@ -54,16 +56,18 @@ A little more intention around screen time. Native Swift, built on Apple's Scree
 </tr>
 </table>
 
-## What I'm building now
+## Products and game projects
 
 | | Project | What it is |
 |---|---|---|
-| 🧽 | **CleanOS** | The operating system for cleaning businesses: enquiry, quote, booking, job proof and invoice in one record. Phase one in development, shaped by running [Clean Up Bros](https://www.cleanupbros.com.au/). [Early access ↗](https://mykoala.com.au/#waitlist) |
+| 🧽 | **CleanOS** | Operations software for cleaning businesses. Connects enquiries, quotes, bookings, job proof and invoices. In development. |
 | 📊 | **AI Price Watch** | Live tracker of AI model prices and routing changes. [pricewatch.mykoala.com.au ↗](https://pricewatch.mykoala.com.au) |
-| 🚕 | **BulaRides** | Ride-hailing for Fiji, where I'm from. Native SwiftUI rider and driver apps on Supabase. In development. |
+| 🚕 | **Lako Ride and Lako Drive** | Separate SwiftUI apps for riders and drivers in Fiji, backed by Supabase. In pilot preparation. |
 | 🎓 | **Pathway AI** | AI study-abroad advisor for Australia: advisor chat, university matching and SOP writing. In development. |
-| 🎙️ | **Utter** | Native Mac dictation. In development. |
-| 📺 | **Hype Busters** | A YouTube channel that tests AI tools against the hype. |
+| 🎙️ | **Mercurius** | Native Mac dictation, previously known as CursusVox. In development. |
+| 🎮 | **Ratings War** | Our game project. Level 1 is in development. |
+
+I also run **Hype Busters**, a YouTube channel where I test AI tools and share what they can do in practice.
 
 ## Meet Koda, my agent team
 
@@ -88,9 +92,9 @@ experiments, work in progress and CI runs. Finished, tested work moves here.
 
 ## Work for clients
 
-Through MyKoala I build business websites, connected workflows and AI product pilots for small businesses, each
-starting from a written scope. Recent work includes a fashion-rental storefront, a luxury home builder's site,
-and an NDIS provider's admin portal. See the [selected work](https://mykoala.com.au/#work).
+Through MyKoala, I build websites, automations and custom software for small businesses. Client projects include
+**Ashika**, a fashion-rental storefront, and **Homsha**, a Sydney custom home builder's website. Earlier work
+includes an NDIS provider's admin portal. See the [selected work](https://mykoala.com.au/work).
 
 ## Tools I reach for
 
