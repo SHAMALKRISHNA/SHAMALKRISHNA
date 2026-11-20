@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f6b5c,100:101416&text=Shamal%20Krishna&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Founder%20of%20MyKoala%20%C2%B7%20Sydney&descAlignY=58&descSize=18" alt="Shamal Krishna, founder of MyKoala, Sydney" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f6b5c,100:101416&text=Shamal%20Krishna&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=MyKoala%20%C2%B7%20Sydney&descAlignY=58&descSize=18" alt="Shamal Krishna, MyKoala, Sydney" width="100%"/>
 
 <a href="https://mykoala.com.au"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&weight=600&size=22&duration=3200&pause=900&color=5CC7B2&center=true&vCenter=true&width=640&lines=I+build+apps%2C+websites+and+useful+systems.;Two+apps+live+on+the+App+Store.;An+AI+agent+team+running+across+two+Macs.;Open+to+software+engineering+and+AI+roles.;From+Fiji+to+Australia%2C+learning+by+building." alt="I build apps, websites and useful systems. Two apps live on the App Store. An AI agent team running across two Macs."/></a>
 
@@ -60,8 +60,8 @@ A little more intention around screen time. Native Swift, built on Apple's Scree
 |---|---|---|
 | 🧽 | **CleanOS** | The operating system for cleaning businesses: enquiry, quote, booking, job proof and invoice in one record. Phase one in development, shaped by running [Clean Up Bros](https://www.cleanupbros.com.au/). [Early access ↗](https://mykoala.com.au/#waitlist) |
 | 📊 | **AI Price Watch** | Live tracker of AI model prices and routing changes. [pricewatch.mykoala.com.au ↗](https://pricewatch.mykoala.com.au) |
-| 🚕 | **BulaRides** | Ride-hailing for Fiji, where I'm from. React Native and Supabase. In development. |
-| 🎓 | **UniMate** | University and visa pathway guidance for international students. In development. |
+| 🚕 | **BulaRides** | Ride-hailing for Fiji, where I'm from. Native SwiftUI rider and driver apps on Supabase. In development. |
+| 🎓 | **Pathway AI** | AI study-abroad advisor for Australia: advisor chat, university matching and SOP writing. In development. |
 | 🎙️ | **Utter** | Native Mac dictation. In development. |
 | 📺 | **Hype Busters** | A YouTube channel that tests AI tools against the hype. |
 
@@ -82,6 +82,9 @@ keeps the record of what happened and why. Nothing merges on one model's word:
   So when an agent hits a problem, its first move is asking whether we've solved it before.
 - **Guard rails.** Monthly spend caps on paid models, no secrets in code or logs, and a disk sweep that keeps
   both machines clean.
+
+Koda and the agents have their own GitHub account, **[@KODA-MYK](https://github.com/KODA-MYK)**, for
+experiments, work in progress and CI runs. Finished, tested work moves here.
 
 ## Work for clients
 
